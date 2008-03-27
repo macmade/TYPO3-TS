@@ -1,7 +1,7 @@
 /***************************************************************
  * Copyright notice
  * 
- * (c) 2004 Jean-David Gadina (macmade@gadlab.net)
+ * (c) 2004 Jean-David Gadina (info@macmade.net)
  * All rights reserved
  * 
  * This script is part of the TYPO3 project. The TYPO3 project is 
@@ -24,7 +24,7 @@
 /** 
  * TS Setup - Search box
  *
- * @author      Jean-David Gadina (macmade@gadlab.net)
+ * @author      Jean-David Gadina (info@macmade.net)
  * @version     1.0
  */
 lib.misc.searchBox = COA
